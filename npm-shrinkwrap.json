@@ -46,9 +46,9 @@
       "integrity": "sha1-tdRU3CGZriJWmfNGfloH87lVuv0="
     },
     "left-pad": {
-      "version": "1.1.0",
-      "resolved": "https://registry.npmjs.org/left-pad/-/left-pad-1.1.0.tgz",
-      "integrity": "sha1-R6La9YHt5FQzTe5sYDbK4A2RLk0="
+      "version": "1.2.0",
+      "resolved": "https://registry.npmjs.org/left-pad/-/left-pad-1.2.0.tgz",
+      "integrity": "sha1-0wpzxrggHY99jnlWupYWCHpo4O4="
     },
     "supports-color": {
       "version": "5.3.0",
